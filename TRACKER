@@ -1,0 +1,30 @@
+TO DEVELOP APP CALLED MONTHLY EXPENSER USING STICH WEBSITE AND GOOOGLE AI STUDIO.
+
+
+THIS PROMPT IS GENARATED FROM THE AI ENGINES TOOLS
+
+Prompt1: 
+
+Design a modern mobile expense tracker app called Spendly that helps users easily track their daily spending and manage their budget.
+Include a home dashboard showing total balance, monthly spending, remaining budget, and a simple spending chart. Add an easy Add Expense screen with amount, category, date, note, and payment method. Include an expenses screen with a searchable and filterable transaction list, and a statistics screen showing spending by category and monthly trends.
+Use a clean, minimal personal-finance UI with modern cards, simple icons, rounded components, clear typography, and intuitive bottom navigation. Make the app feel simple, professional, and easy to use.
+Prompt 2:
+
+Now build the Spendly Expense Tracker as a fully functional mobile app using the generated design.
+Implement all screens and interactions:
+Dashboard with balance, monthly spending, remaining budget, and spending chart
+Add Expense with amount, category, date, note, and payment method
+Expense history with search and category/date filters
+Statistics screen with category-wise and monthly spending
+Bottom navigation between Dashboard, Expenses, Add, and Statistics
+Add, edit, and delete expenses
+Automatically calculate totals and remaining budget
+Store all expense data locally on the device
+Persist data after closing and reopening the app
+Allow users to set a monthly budget
+Update charts and statistics automatically when expenses change
+Add proper empty states and validation
+Make all buttons and interactions functional
+Keep the UI exactly consistent with the generated design. Make it responsive for different Android screen sizes and optimize it for smooth mobile performance.
+Do not create a static prototype. Build a complete, working expense tracker.
+
